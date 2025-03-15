@@ -1,6 +1,8 @@
 # Global-Condom-Sales-Analysis
 This dataset offers insights into global condom sales, contraceptive use, and sexual health awareness from 2015 to 2025. It includes trends, brand preferences, government campaigns, and online shopping habits, providing valuable information for predicting market trends and evaluating what works.
 
+![Screenshot 2025-03-13 174742](https://github.com/user-attachments/assets/69087313-ff23-4571-916e-df8f6e53de4e)
+
 What the Project Does:
 This project provides an in-depth analysis of global condom sales, contraceptive usage, and sexual health awareness from 2015 to 2025. It explores: Sales trends and revenue distribution across countries. The impact of government campaigns on sales and public health. Brand preferences by gender to help refine marketing strategies. The relationship between contraceptive usage rates and teen pregnancy statistics.
 
